@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## The Demonstration
 
-Inside Chrome v118 or later, load up the [http://localhost:3000](the page) and you'll see at the bottom, a message that is the client component that simply injects a speculation rule set into the DOM upon first pass render.  
+Inside Chrome v118 or later, load up the [page](http://localhost:3000) and you'll see at the bottom, a message that is the client component that simply injects a speculation rule set into the DOM upon first pass render.  
 
 What's interesting is that this script node is clearly visible when inspected in the document however, if you flip to the application tab and look for a registered speculation rule, there are none.
 
